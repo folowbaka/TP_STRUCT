@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1450383668 source:c:\users\david\documents\tp_struct\tp1\tp1_add_macro.c
+
+1450389459 source:c:\users\david\documents\tp_struct\tp1\lecture_valeur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stdint.h>
+	<stdarg.h>
+
+1450392993 source:c:\users\david\documents\programmation\c\tp_struct\tp1\lecture_valeur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stdint.h>
+	<stdarg.h>
+
+1450383668 source:c:\users\david\documents\programmation\c\tp_struct\tp1\tp1_add_macro.c
+
