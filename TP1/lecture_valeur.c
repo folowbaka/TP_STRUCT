@@ -254,7 +254,7 @@ uint64_t mytabsize(void* pointeurMalloc,uint64_t nbOctetType)
 void myfree(void* pointeur)
 {
 
-    free(pointeur-1);
+    free(pointeur-8);
 }
 void affichetableau(uint32_t* tableau)
 {

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1450394924 source:c:\users\david\documents\programmation\c\tp_struct\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myliste.h"
+
+1449787028 c:\users\david\documents\programmation\c\tp_struct\tp3\myliste.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+	<stdbool.h>
+
+1449787038 source:c:\users\david\documents\programmation\c\tp_struct\tp3\myliste.c
+	"myliste.h"
+
