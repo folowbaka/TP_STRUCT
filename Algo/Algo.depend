@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1454795910 source:c:\users\david\documents\programmation\c\tp_struct\algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
+1454881993 source:c:\users\david\documents\programmation\c\tp_struct\algo\galante_algo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+
